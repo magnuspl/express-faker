@@ -1,4 +1,4 @@
-#Express-server for å generere fake JSON data
+## Express-server for å generere fake JSON data
 
 Dette prosjektet baserer seg på [Faker.js](https://github.com/marak/Faker.js/).
 
